@@ -6,7 +6,7 @@
 * discord Artem Dragunov(@konferas)
 
 ### Skills
-
+* Basics of c++
 #### Code example
 ```js
 function multiply(a, b) {
@@ -14,7 +14,8 @@ function multiply(a, b) {
 }
 ```
 ##### Work expirience
-
+* CV(way)
 ###### Graduate
-
+* Bachelor of security systems 
 ###### English
+* B1
