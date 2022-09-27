@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://konferas.github.io/rsschool-cv/
+## https://konferas.github.io/rsschool-cv/gh-pages
