@@ -1,3 +1,3 @@
 # rsschool-cv
 
-##https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+## https://konferas.github.io/rsschool-cv/cv
